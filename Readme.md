@@ -1,4 +1,4 @@
-#HackerRank 30 Days of Code
+# HackerRank 30 Days of Code
 
 This repo contains the solution to HackerRank 30 days of code.
 Most of the programs are written in **Python3** and 3 of them are written in **Java**
